@@ -74,6 +74,9 @@ Hybrid Decision Engine
       ▼
 Recommended Recovery Action
 
+```
+```text
+
                          REVERSA
                             |
              +--------------+--------------+
@@ -101,6 +104,8 @@ Recommended Recovery Action
                            |
                            v
                  Best Recovery Action
+
+```
 
 Architecture Components
 
